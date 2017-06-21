@@ -16,7 +16,7 @@ function createWarn(funcName){
     console.warn(funcName + ' is not defined');
 }
 
-class Controll extends Component {
+class Control extends Component {
     render() {
         return (
             <div>
@@ -28,7 +28,7 @@ class Controll extends Component {
     }
 }
 
-Controll.propTypes = propTypes;
-Controll.defaultProps = defaultProps;
+Control.propTypes = propTypes;
+Control.defaultProps = defaultProps;
 
-export default Controll;
+export default Control;

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Value from './Value';
-import Controll from './Controll';
+import Control from './Control';
 
 class Counter extends Component {
     render() {
