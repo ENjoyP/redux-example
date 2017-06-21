@@ -8,7 +8,7 @@ class Counter extends Component {
             <div>
                 <h1>Counter</h1>
                 <Value/>
-                <Controll/>
+                <Control/>
             </div>
         );
     }
